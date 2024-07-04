@@ -457,7 +457,7 @@ Case ID | Activity  | Timestamp | Resource | Other Attributes
 	 - Irrelevant Data ( things are submerged in poorly structured data )
 
 103. **Problems while creating event logs -** 
-![[Pasted image 20240629221001.png]]
+![Problems](https://github.com/parthshr370/Process-Mining/blob/main/Pasted%20image%2020240629221001.png)
 
 104. Events are things that happen and that are described by references and attributes 
 105. References have a reference name and an identifier that refers to some object (Person, case , ticket , machine , room etc)
